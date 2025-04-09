@@ -4,6 +4,11 @@
 	(generator_version "9.0")
 	(uuid "be6ea474-c3d7-4ab3-9d94-6d495b1e2f65")
 	(paper "A3")
+	(title_block
+		(title "asm1184e")
+		(date "2025-04-09")
+		(rev "1")
+	)
 	(lib_symbols
 		(symbol "ASM1184:ASM1184"
 			(exclude_from_sim no)
@@ -14931,7 +14936,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "12p"
 			(at 69.342 224.79 90)
 			(effects
 				(font
@@ -15881,7 +15886,7 @@
 				)
 			)
 		)
-		(property "Value" "100n"
+		(property "Value" "12p"
 			(at 69.342 198.12 90)
 			(effects
 				(font
@@ -16536,7 +16541,7 @@
 		(dnp no)
 		(uuid "6b42c619-cb3f-4783-b0a1-1ead11f00203")
 		(property "Reference" "R38"
-			(at 100.584 212.344 90)
+			(at 99.7575 212.34 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16544,8 +16549,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "0"
-			(at 99.822 214.63 90)
+		(property "Value" "NC"
+			(at 103.124 212.344 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19912,7 +19917,7 @@
 		(dnp no)
 		(uuid "b203fef3-5d2c-4e86-8087-6345faaed12d")
 		(property "Reference" "C15"
-			(at 60.452 215.9 90)
+			(at 61.0247 216.0039 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20972,7 +20977,7 @@
 		(dnp no)
 		(uuid "c4832d8d-6304-4d44-9c90-2ae29a5167af")
 		(property "Reference" "C14"
-			(at 31.75 217.932 90)
+			(at 31.7992 218.8462 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21965,7 +21970,7 @@
 		(dnp no)
 		(uuid "d9f82ec0-c002-48aa-a60b-3ff98e51202b")
 		(property "Reference" "C18"
-			(at 96.901 217.8628 0)
+			(at 97.028 219.964 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21974,7 +21979,7 @@
 			)
 		)
 		(property "Value" "22u"
-			(at 96.901 220.2871 0)
+			(at 97.028 222.3883 0)
 			(effects
 				(font
 					(size 1.27 1.27)
