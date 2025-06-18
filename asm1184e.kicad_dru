@@ -1,0 +1,11 @@
+(version 1)
+#(rule tp_to_anything
+#	(condition "A.getField('Value') == 'TestPoint'" )
+#	(constraint physical_clearance(min 0mm))
+#	(severity warning)
+#)
+(rule tp_courtyard_to_anything
+	(condition "A.getField('Value') == 'TestPoint'" )
+	(constraint courtyard_clearance(min 0mm))
+	(severity warning)
+)

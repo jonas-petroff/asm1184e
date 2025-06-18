@@ -521,6 +521,10 @@
       {
         "netclass": "Differential",
         "pattern": ".*_[PN]"
+      },
+      {
+        "netclass": "Default",
+        "pattern": "+12V"
       }
     ]
   },

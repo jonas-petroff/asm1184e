@@ -1,4 +1,4 @@
-24885265182106731
+24888753689474053
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -64799,6 +64799,13 @@ LEA6T_module
 6
 6
 JP-custom
+MRFE6VN25
+25W 1.8M-2G 50V ldmos
+25W 1.8M-2G 50V ldmos
+0
+3
+3
+JP-custom
 MTS-40x
 
 
@@ -65054,6 +65061,13 @@ JP-custom
 diff_socket
 
 
+0
+2
+2
+JP-custom
+diy_ferrite_4x10
+4mm x 10mm core 0.64mm wire
+4mm x 10mm core 0.64mm wire
 0
 2
 2
